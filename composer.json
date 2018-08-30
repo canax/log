@@ -24,7 +24,8 @@
         "psr/log": "^1"
     },
     "require-dev": {
-        "anax/di": "^2.0.0@alpha",
+        "anax/commons": "^2.0.0@beta",
+        "anax/di": "^2.0.0@beta",
         "phpunit/phpunit": "^7"
     }
 }

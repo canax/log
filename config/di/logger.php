@@ -13,7 +13,7 @@ return [
                 // // Load the configuration files
                 // $cfg = $this->get("configuration");
                 // $config = $cfg->load("logger");
-                // 
+                //
                 // // Set session name
                 // $name = $config["config"]["name"] ?? null;
 
